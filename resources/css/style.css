@@ -7,13 +7,17 @@ header {
   border-bottom: 1px solid black;
   align-items: center;
 }
-nav {
-  display: inline-block;
-  justify-content: flex-end;
+header nav {
+  display: block;
+  padding-right: 40px;
 }
-.navlist {
+nav span {
+  display: inline-block;
+  padding: 20px 10px;
+}
+a {
   color: black;
 }
-header .logo {
+.logo span {
   color: MediumAquamarine;
 }
