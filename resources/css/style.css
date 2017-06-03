@@ -21,3 +21,12 @@ a {
 .logo span {
   color: MediumAquamarine;
 }
+.column-large {
+  border: 1px solid black;
+}
+.column-medium {
+  border: 1px solid black;
+}
+.column-small {
+  border: 1px solid black;
+}
