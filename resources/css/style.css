@@ -44,8 +44,8 @@ a {
   font-weight: bold;
   font-size: 40px;
   color: white;
-  width: 625px;
-  height: 298px;
+}
+.stories {
 }
 .story {
   border: 1px solid black;
@@ -60,7 +60,6 @@ a {
   font-weight: bold;
   font-size: 30px;
   color: white;
-  height: 300px;
 }
 .image-content-cameras {
   border: 1px solid black;
@@ -69,7 +68,6 @@ a {
   font-weight: bold;
   font-size: 30px;
   color: white;
-  height: 300px;
 }
 .image-content-cats {
   border: 1px solid black;
@@ -78,7 +76,6 @@ a {
   font-weight: bold;
   font-size: 30px;
   color: white;
-  height: 300px;
 }
 .news-bites {
   border: 1px solid black;
