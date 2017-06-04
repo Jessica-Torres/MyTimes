@@ -23,7 +23,7 @@ a {
 }
 .content {
   display: flex;
-  justify-content: flex-start;
+  justify-content: space-between;
 }
 .column-large {
   border: 1px solid black;
@@ -37,11 +37,21 @@ a {
   border: 1px solid black;
   width: 240px;
 }
-.first-title span {
+.first-title {
   border: 1px solid black;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-main.png);
+  font-family: Georgia;
+  font-weight: bold;
+  font-size: 40px;
+  color: white;
+  width: 625px;
+  height: 298px;
 }
 .story {
   border: 1px solid black;
+  font-family: Georgia;
+  font-size: 17px;
+  color: black;
 }
 .image-content-earth {
   border: 1px solid black;
