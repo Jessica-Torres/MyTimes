@@ -33,3 +33,21 @@ a {
   border: 1px solid black;
   width: 240px;
 }
+.first-title span {
+  border: 1px solid black;
+}
+.story {
+  border: 1px solid black;
+}
+.image-content-earth {
+  border: 1px solid black;
+}
+.image-content-cameras {
+  border: 1px solid black;
+}
+.image-content-cats {
+  border: 1px solid black;
+}
+.news-bites {
+  border: 1px solid black;
+}
