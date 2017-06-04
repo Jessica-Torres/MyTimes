@@ -21,6 +21,10 @@ a {
 .logo span {
   color: MediumAquamarine;
 }
+.content {
+  display: flex;
+  justify-content: flex-start;
+}
 .column-large {
   border: 1px solid black;
   width: 630px;
