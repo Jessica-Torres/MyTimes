@@ -26,19 +26,15 @@ a {
   justify-content: space-between;
 }
 .column-large {
-  border: 1px solid black;
   width: 630px;
 }
 .column-medium {
-  border: 1px solid black;
   width: 300px;
 }
 .column-small {
-  border: 1px solid black;
   width: 240px;
 }
 .first-title {
-  border: 1px solid black;
   background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-main.png);
   font-family: Georgia;
   font-weight: bold;
@@ -49,13 +45,11 @@ a {
   display: flex;
 }
 .story {
-  border: 1px solid black;
   font-family: Georgia;
   font-size: 17px;
   color: black;
 }
 .image-content-earth {
-  border: 1px solid black;
   background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-2.png);
   font-family: Georgia;
   font-weight: bold;
@@ -63,7 +57,6 @@ a {
   color: white;
 }
 .image-content-cameras {
-  border: 1px solid black;
   background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-3.png);
   font-family: Georgia;
   font-weight: bold;
@@ -71,7 +64,6 @@ a {
   color: white;
 }
 .image-content-cats {
-  border: 1px solid black;
   background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-1.png);
   font-family: Georgia;
   font-weight: bold;
