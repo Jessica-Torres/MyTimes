@@ -40,6 +40,7 @@ a {
   font-weight: bold;
   font-size: 40px;
   color: white;
+  height: 300px;
 }
 .stories {
   display: flex;
@@ -55,6 +56,7 @@ a {
   font-weight: bold;
   font-size: 30px;
   color: white;
+  height: 300px;
 }
 .image-content-cameras {
   background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-3.png);
@@ -62,6 +64,7 @@ a {
   font-weight: bold;
   font-size: 30px;
   color: white;
+  height: 300px;
 }
 .image-content-cats {
   background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-1.png);
@@ -69,6 +72,7 @@ a {
   font-weight: bold;
   font-size: 30px;
   color: white;
+  height: 300px;
 }
 .news-bites {
   display: flex;
